@@ -7,8 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2FA8CC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+%26+Back-End;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://squarespace-cdn.com" width="400" alt="Pessoa mexendo no computador animado">
+  <img src="https://vercel.app" alt="Estatísticas Animadas">
 </p>
+
 
 
 
