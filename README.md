@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2FA8CC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+%26+Back-End;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/PedroHen29/PedroHen29/main/assets/coding-animation.svg" width="380" alt="Animação de desenvolvedor codando" />
+
 </div>
 
 ---
@@ -44,29 +46,9 @@
 
 </div>
 
----
-
-### 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PedroHen29&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
-
-</div>
 
 ---
 
-### 🐍 Atividade recente
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PedroHen29/PedroHen29/output/github-contribution-grid-snake.svg" alt="Animação da cobra comendo commits" />
-
-</div>
-
-> 💡 Essa animação é gerada automaticamente. Veja como configurar no final deste README.
-
----
 
 ### 🌐 Redes sociais
 
