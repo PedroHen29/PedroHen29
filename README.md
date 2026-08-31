@@ -6,7 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2FA8CC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+%26+Back-End;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/PedroHen29/PedroHen29/main/assets/coding-animation.svg" width="380" alt="Animação de desenvolvedor codando" />
+<p align="center">
+  <img src="https://githubusercontent.com" width="400" alt="Pessoa mexendo no computador">
+</p>
+
 
 <img src="https://raw.githubusercontent.com/PedroHen29/PedroHen28/assets/coding-animation.svg" width="380" alt="Animação de desenvolvedor codando" />
 
