@@ -8,6 +8,8 @@
 
 <img src="https://raw.githubusercontent.com/PedroHen29/PedroHen29/main/assets/coding-animation.svg" width="380" alt="Animação de desenvolvedor codando" />
 
+<img src="https://raw.githubusercontent.com/PedroHen29/PedroHen28/main/assets/coding-animation.svg" width="380" alt="Animação de desenvolvedor codando" />
+
 </div>
 
 ---
