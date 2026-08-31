@@ -27,28 +27,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nodejs,mysql,vscode,git&theme=dark" alt="Stack de tecnologias" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nodejs,mysql,vscode,git&theme=dark" />
 
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroHen29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHen29&theme=tokyonight&hide_border=true" alt="Streak do GitHub" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHen29&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-
 ---
 
 
@@ -72,6 +55,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PedroHen29&label=Visualizações+do+perfil&color=2FA8CC&style=flat" alt="Contador de visualizações" />
+<img src="https://komarev.com/ghpvc/?username=PedroHen29&label=Visualizações+do+perfil&color=2FA8CC&style=flat"  />
 
 </div>
