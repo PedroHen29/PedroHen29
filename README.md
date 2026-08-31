@@ -7,6 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2FA8CC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+%26+Back-End;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <img width="600" height="478" alt="animação" src="https://github.com/user-attachments/assets/11290238-c478-4770-acfe-48d99a641c4e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11290238-c478-4770-acfe-48d99a641c4e" width="400" alt="Pessoa mexendo no computador">
+</p>
 
 
 
