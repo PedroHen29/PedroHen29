@@ -1,0 +1,82 @@
+<svg width="380" height="260" viewBox="0 0 380 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#0d419d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="380" height="260" rx="16" fill="url(#bg)"/>
+
+  <!-- ícones de código flutuando -->
+  <text x="40" y="50" font-family="monospace" font-size="16" fill="#58a6ff" opacity="0.7">
+    &lt;/&gt;
+    <animate attributeName="y" values="50;38;50" dur="3s" repeat-count="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="3s" repeat-count="indefinite"/>
+  </text>
+  <text x="320" y="70" font-family="monospace" font-size="14" fill="#3fb950" opacity="0.6">
+    { }
+    <animate attributeName="y" values="70;58;70" dur="2.4s" repeat-count="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="2.4s" repeat-count="indefinite"/>
+  </text>
+  <text x="300" y="200" font-family="monospace" font-size="14" fill="#f2cc60" opacity="0.6">
+    ;
+    <animate attributeName="y" values="200;188;200" dur="2.8s" repeat-count="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="2.8s" repeat-count="indefinite"/>
+  </text>
+
+  <!-- mesa -->
+  <rect x="60" y="200" width="260" height="10" rx="3" fill="#30363d"/>
+  <rect x="80" y="210" width="10" height="30" fill="#21262d"/>
+  <rect x="290" y="210" width="10" height="30" fill="#21262d"/>
+
+  <!-- monitor -->
+  <rect x="130" y="110" width="120" height="80" rx="6" fill="#21262d" stroke="#30363d" stroke-width="2"/>
+  <rect x="140" y="120" width="100" height="60" rx="3" fill="url(#screen)"/>
+  <rect x="180" y="190" width="20" height="14" fill="#30363d"/>
+  <rect x="165" y="204" width="50" height="6" rx="3" fill="#30363d"/>
+
+  <!-- linhas de código na tela -->
+  <rect x="148" y="128" width="40" height="4" rx="2" fill="#c9d1d9" opacity="0.9"/>
+  <rect x="148" y="138" width="60" height="4" rx="2" fill="#c9d1d9" opacity="0.7"/>
+  <rect x="148" y="148" width="30" height="4" rx="2" fill="#c9d1d9" opacity="0.8"/>
+  <rect x="148" y="158" width="70" height="4" rx="2" fill="#c9d1d9" opacity="0.6"/>
+  <rect x="148" y="168" width="20" height="4" rx="2" fill="#3fb950">
+    <animate attributeName="width" values="20;50;20" dur="1.6s" repeat-count="indefinite"/>
+  </rect>
+  <!-- cursor piscando -->
+  <rect x="220" y="168" width="4" height="8" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeat-count="indefinite"/>
+  </rect>
+
+  <!-- cadeira -->
+  <rect x="185" y="205" width="10" height="35" fill="#21262d"/>
+
+  <!-- pessoa: cabeça -->
+  <circle cx="190" cy="150" r="16" fill="#f2c88f"/>
+  <!-- cabelo -->
+  <path d="M174 145 Q190 128 206 145 Q206 136 190 133 Q174 136 174 145 Z" fill="#3a2b21"/>
+  <!-- corpo -->
+  <path d="M168 205 Q168 175 190 175 Q212 175 212 205 Z" fill="#2f81f7"/>
+
+  <!-- braço esquerdo (digitando) -->
+  <path d="M172 185 Q158 195 165 205" stroke="#2f81f7" stroke-width="9" fill="none" stroke-linecap="round">
+    <animate attributeName="d" values="M172 185 Q158 195 165 205;M172 185 Q160 190 168 202;M172 185 Q158 195 165 205" dur="0.6s" repeat-count="indefinite"/>
+  </path>
+  <!-- braço direito (digitando) -->
+  <path d="M208 185 Q222 195 215 205" stroke="#2f81f7" stroke-width="9" fill="none" stroke-linecap="round">
+    <animate attributeName="d" values="M208 185 Q222 195 215 205;M208 185 Q220 190 212 202;M208 185 Q222 195 215 205" dur="0.6s" begin="0.3s" repeat-count="indefinite"/>
+  </path>
+
+  <!-- teclado -->
+  <rect x="155" y="205" width="70" height="10" rx="2" fill="#21262d" stroke="#30363d"/>
+
+  <!-- texto -->
+  <text x="190" y="248" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">
+    &lt; codando sem parar /&gt;
+  </text>
+</svg>
