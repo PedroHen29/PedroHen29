@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2FA8CC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+%26+Back-End;Apaixonado+por+resolver+problemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </p>
 
 
